@@ -10,7 +10,6 @@ An AI-powered webcam application that keeps students focused while studying. It 
 
 ## 🎥 Demo
 
-_Add your demo video/GIF link here (e.g. YouTube or LinkedIn post link)._
 
 ## 🛠️ Tech Stack
 
@@ -31,12 +30,9 @@ _Add your demo video/GIF link here (e.g. YouTube or LinkedIn post link)._
 
 ```bash
 # Clone the repo
-git clone https://github.com/<your-username>/ai-study-monitor.git
+git clone https://github.com/PRINCE77-UI/Ai-Study-Monitor.git
 cd ai-study-monitor
 
-# Install dependencies
-pip install -r requirements.txt
-```
 
 Add your own alert sound files inside the `assets/` folder:
 - `assets/alarm.mp3` — played on sleep detection
@@ -46,7 +42,7 @@ Add your own alert sound files inside the `assets/` folder:
 ## ▶️ Usage
 
 ```bash
-python study_monitor.py
+python App.py
 ```
 
 Press `q` to quit the app.
