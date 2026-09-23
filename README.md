@@ -31,13 +31,13 @@ An AI-powered webcam application that keeps students focused while studying. It 
 ```bash
 # Clone the repo
 git clone https://github.com/PRINCE77-UI/Ai-Study-Monitor.git
-cd ai-study-monitor
+cd Ai-Study-Monitor
 
 
-Add your own alert sound files inside the `assets/` folder:
-- `assets/alarm.mp3` — played on sleep detection
-- `assets/faudio.mp3` — played on face-covered detection
-- `assets/paudio.mp3` — played on phone detection
+Add your own alert sound files inside the folder:
+- alarm.mp3 — played on sleep detection
+- faudio.mp3 — played on face-covered detection
+- paudio.mp3 — played on phone detection
 
 ## ▶️ Usage
 
