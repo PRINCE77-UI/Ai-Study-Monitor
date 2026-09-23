@@ -9,7 +9,7 @@ An AI-powered webcam application that keeps students focused while studying. It 
 > Every parent wanted this... so I built it 😂
 
 ## 🎥 Demo
-
+👉 [Try it live here] (https://ai-study-monitor-lk7cssdqksevmlrrems9y4.streamlit.app/)
 
 ## 🛠️ Tech Stack
 
