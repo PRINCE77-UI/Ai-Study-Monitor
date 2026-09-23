@@ -44,7 +44,7 @@ This repo has two ways to run it:
 ## 📦 Installation (Desktop version)
 
 ```bash
-git clone https://github.com/<your-username>/ai-study-monitor.git
+git clone  https://github.com/PRINCE77-UI/Ai-Study-Monitor.git
 cd ai-study-monitor
 pip install -r requirements.txt
 ```
